@@ -1,43 +1,38 @@
-# 👋 Hi, I’m Amaan
+# Hi, I'm Amaan
 
-I'm a commercially minded operator with 3+ years of experience in business development and go-to-market execution — now transitioning into AI-driven product environments.
+I build AI agents that find customers. I'm the founder of [Otto Pilot](https://otto-pilot.io), based in London.
 
-After generating over £1.4M in revenue for a leading global events firm, I pursued a Master’s in AI & Digital Innovation at the London School of Economics (MISDI), where I focused on the intersection of emerging technologies and product strategy.
+Before I wrote code I sold for a living: £1.4M+ in new revenue at Terrapinn, and enterprise deals with Microsoft, the NHS and Audi at a startup I co-founded and exited. Then an MSc at LSE (Distinction), and now I build the tools I wish I'd had.
 
----
+## What I'm building
 
-### 🚀 What I'm Building Here
+**[Otto Pilot](https://otto-pilot.io)** is a go-to-market engine for B2B teams.
+- Finds the companies that fit your ICP and the right people at each one
+- 25+ Signal Agents watch your accounts for the moment to reach out: a new leader, a relevant hire, fresh funding
+- Runs LinkedIn and email campaigns that only go out once you approve them, then sorts and drafts the replies
+- An MCP server, so Claude can run all of it from a chat
 
-This GitHub serves as a portfolio of concept work, reconstructed projects, and learning artefacts to showcase how I approach:
+**[agentic-gtm](https://github.com/Amaan-creates/agentic-gtm)** is an open-source Claude skill that teaches founders how to find customers. Give it your startup's URL and it builds a short course on your own market, then hands you a scheduled agent on Claude Managed Agents. Built at the Claude Founder House. Examples: [Tennr](https://amaan-creates.github.io/agentic-gtm/examples/tennr/course.html), [Greptile](https://amaan-creates.github.io/agentic-gtm/examples/greptile/course.html), [Lindus Health](https://amaan-creates.github.io/agentic-gtm/examples/lindus-health/course.html).
 
-- 🤖 Applied AI for sales, product, and growth
-- 🎯 Go-to-market strategies for B2B/enterprise tech
-- 🧠 Prompt engineering and product storytelling
-- 🧰 No-code + low-code + AI tooling for operators
+## At LSE
 
----
+MSc Management of Information Systems and Digital Innovation, Distinction (2024–25). Modules included Managing AI, Open Innovation and IT and Service Innovation.
 
-### 📂 Key Repos (Pinned)
+- **MediLink** (group project, IT and Service Innovation). Healthcare access for rural Rwanda through two channels: a mobile app, and USSD for phones with no internet. It connects patients, clinics and drone delivery. We wrote the full product spec (user flows, UML, data and infrastructure, roadmap, ethics and law) and a VC pitch deck.
+- **Second Bite** (group project, Managing AI). An AI-enabled two-sided platform that matches surplus food from London businesses with charities. It forecasts donation volumes and allocates food by perishability, charity capacity and local need, with a governance and ethics design for the models.
+- **Code camp.** A Python voice assistant built on the ChatGPT and ElevenLabs APIs, applied to financial modelling.
 
-- `jarvis-ai-concept`: A reimagined version of my AI assistant bootcamp project
-- `ai-strategy-prompts`: Prompt library for growth, content, and ops
-- `field-marketing-b2b`: Conceptual GTM plan for an AI data product
-- `sales-ai-playbook`: How AI can supercharge prospecting & deal flow
-- `learning-map-ai-product`: A structured path I'm taking to upskill into technical product roles
+## Before that
 
----
+- **Terrapinn**, business development (2021–24). £1.4M+ in new sponsorship revenue with renewals above 85%. Grew MOVE America from 45 attendees in 2021 to 5,000 in 2024.
+- **Swizio**, co-founder and sales director (2020–24). B2B SaaS for contactless networking at events, with a Salesforce integration that synced leads captured at conferences. Clients included Microsoft, the NHS and Audi. Exited in 2024.
 
-### 📍 Currently
+## Tools I use
 
-- Learning: vector search, LLM workflows, LangChain, Vercel AI SDK
-- Exploring: roles at the intersection of GTM, product, and AI strategy
-- Connecting: with others building and deploying next-gen tools
+Claude Code, Claude Managed Agents, MCP, TypeScript, Python, Cloudflare Workers, Supabase.
 
----
+Certificates from Anthropic: AI Fluency: Framework & Foundations, Claude 101, Claude with Google Vertex AI.
 
-### 🌐 Get in Touch
+## Say hello
 
-If you’re building in the AI, tech, or GTM space — I’d love to connect.
-
-• 📫 [LinkedIn]) (https://www.linkedin.com/in/amaan-aslam-078b33176/) • 📨 amaanaslam1999@gmail.com
-# AmaanAslam
+[LinkedIn](https://www.linkedin.com/in/amaan-aslam-078b33176/) · [otto-pilot.io](https://otto-pilot.io) · amaanaslam1999@gmail.com
