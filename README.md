@@ -18,9 +18,9 @@ Before I wrote code I sold for a living: £1.4M+ in new revenue at Terrapinn, an
 
 ## What I'm working on next
 
-- **Knowing when to reach out.** More ways to spot the moment a company is ready to talk.
-- **Trust in the data.** Making sure every person and company Otto finds is current and correct.
-- **More channels.** Reaching the same buyers wherever they spend their time.
+- **More ways to know when to reach out.** Website traffic is one of the warmest signals there is: a company reading your pricing page is telling you something. We want Otto to catch that moment and every other one like it.
+- **Trust in the data.** Improving our data at Otto Pilot never stops. We keep 1B+ profiles fresh and updated every week, so the person you reach is still in the job.
+- **More channels and integrations.** In a world of integrations and APIs, we want to give our customers everything they need in one workflow.
 
 ## At LSE
 
