@@ -18,9 +18,9 @@ Before I wrote code I sold for a living: £1.4M+ in new revenue at Terrapinn, an
 
 ## What I'm working on next
 
-- **Website visitors in Otto.** See which companies are reading your site, and let a Signal Agent act on the visit.
-- **Checks before every message.** Otto confirms each person is still at the company, and each company is still independent, before anything goes out.
-- **LinkedIn ad audiences.** Turn an Otto account list into a LinkedIn ads audience, so outreach and ads hit the same companies.
+- **Knowing when to reach out.** More ways to spot the moment a company is ready to talk.
+- **Trust in the data.** Making sure every person and company Otto finds is current and correct.
+- **More channels.** Reaching the same buyers wherever they spend their time.
 
 ## At LSE
 
