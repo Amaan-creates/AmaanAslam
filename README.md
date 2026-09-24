@@ -1,3 +1,5 @@
+<a href="https://otto-pilot.io"><img src="otto-pilot-logo.png" alt="Otto Pilot" width="96" align="right"></a>
+
 # Hi, I'm Amaan
 
 I build AI agents that find customers. I'm the founder of [Otto Pilot](https://otto-pilot.io), based in London.
@@ -13,6 +15,12 @@ Before I wrote code I sold for a living: £1.4M+ in new revenue at Terrapinn, an
 - An MCP server, so Claude can run all of it from a chat
 
 **[agentic-gtm](https://github.com/Amaan-creates/agentic-gtm)** is an open-source Claude skill that teaches founders how to find customers. Give it your startup's URL and it builds a short course on your own market, then hands you a scheduled agent on Claude Managed Agents. Built at the Claude Founder House. Examples: [Tennr](https://amaan-creates.github.io/agentic-gtm/examples/tennr/course.html), [Greptile](https://amaan-creates.github.io/agentic-gtm/examples/greptile/course.html), [Lindus Health](https://amaan-creates.github.io/agentic-gtm/examples/lindus-health/course.html).
+
+## What I'm working on next
+
+- **Website visitors in Otto.** See which companies are reading your site, and let a Signal Agent act on the visit.
+- **Checks before every message.** Otto confirms each person is still at the company, and each company is still independent, before anything goes out.
+- **LinkedIn ad audiences.** Turn an Otto account list into a LinkedIn ads audience, so outreach and ads hit the same companies.
 
 ## At LSE
 
